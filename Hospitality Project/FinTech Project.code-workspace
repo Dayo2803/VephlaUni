@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Vue Js"
+		},
+		{
+			"path": "../FinTech Project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FinTech Project"
+	}
+}
